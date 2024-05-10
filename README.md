@@ -1,19 +1,11 @@
-<h1 align="center">Hi 👋, I'm 蒋添翼</h1>
-<h3 align="center">一个初中生学习者</h3>
+<h1 align="center">Hi 👋, I'm SPEN CER</h1>
+<h3 align="center">Located SG🇸🇬,English,Chinese,French accept~</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=boss080201" alt="boss080201" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/@boss080201" target="blank"><img src="https://img.shields.io/twitter/follow/@boss080201?logo=twitter&style=for-the-badge" alt="@boss080201" /></a> </p>
 
-- 🌱我正在学习 **Vue和Android开发**
-
-- 🍿爱好 [ACG 二次元 时事政治](ACG 二次元 时事政治)
-
-- 💬询问我？ **我几乎什么也不会，但还是会尽力解答您的疑惑**
-
-- 📫找到我 **微信：Tianyi_Jiang**
-
-- ⚡一些杂谈 **我不太喜欢共产党 准备高中留学日本🏅暂时学习成绩有点下滑**
+- 🌱USING&LEARNING **RUST PHP MYSQL VUE-JS H5 CSS PY C++ JAVA HACKING-TECH**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
